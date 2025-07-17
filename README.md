@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Sapna  
+### Aspiring Business Analyst | Power BI Enthusiast | Data-Driven Mindset  
 
-<!--
-**Sapnaba07/Sapnaba07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio!  
+I love turning raw data into powerful dashboards and actionable insights using modern BI tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tools & Skills
+
+- **Power BI** – Data modeling, DAX, storytelling dashboards, AI visuals  
+- **Excel** – Data cleaning, pivot tables, basic automation  
+- **ChatGPT** – DAX logic building, query suggestions, narrative exploration  
+- **Business Analysis** – Customer behavior, KPIs, trends, insight generation  
+- **Currently Learning** – SQL for querying & deeper analysis  
+
+---
+
+## 📊 Projects
+
+### 🛍️ E-commerce Sales Dashboard  
+📌 *Understand product performance, customer behavior & sales trends*  
+**Key Insights**:
+- Top-selling & underperforming categories  
+- Monthly sales trends by region  
+- Smart Narrative AI visual summaries  
+- Dynamic filters for drill-down analysis  
+🔗 [View Repository](https://github.com/sapnaba07/ecommerce-sales-dashboard)
+
+---
+
+### 🏥 Healthcare Analytics Dashboard  
+📌 *Visualize patient demographics, revenue, and room usage*  
+**Key Insights**:
+- Age/gender breakdown of patients  
+- Doctor-to-patient ratio  
+- Revenue by department and room occupancy  
+- ChatGPT-assisted logic for KPI formulation  
+🔗 [View Repository](https://github.com/sapnaba07/healthcare-analytics-dashboard)
+
+---
+
+## 📫 Contact  
+📧 businessanalystsapna@gmail.com  
+🌐 LinkedIn: *Coming Soon*
+
