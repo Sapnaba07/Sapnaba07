@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sapna  
-### Aspiring Business Analyst | Power BI Enthusiast | Data-Driven Mindset  
+### Currently working as a Business Analyst Intern at Unified Mentor, where I am analyzing business data using Power BI, SQL, and Excel to generate actionable insights." | Power BI Enthusiast | Data-Driven Mindset  
 
 Welcome to my GitHub portfolio!  
 I love turning raw data into powerful dashboards and actionable insights using modern BI tools.
@@ -42,5 +42,5 @@ I love turning raw data into powerful dashboards and actionable insights using m
 
 ## 📫 Contact  
 📧 businessanalystsapna@gmail.com  
-🌐 LinkedIn: *Coming Soon*
+🌐 LinkedIn: www.linkedin.com/in/sapna-patel-587b40375
 
